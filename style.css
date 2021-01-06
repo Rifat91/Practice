@@ -1,0 +1,19 @@
+body{
+    font-family: 'Josefin Slab', serif;
+    margin: 0px;
+}
+.color{
+    color: 	#800080;
+}
+.color2{
+    color: #00ff7f;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+.right-side img{
+    float: left;
+}
